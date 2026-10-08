@@ -1,6 +1,6 @@
 <Solution>
   <Project Path="Bastion.Api/Bastion.Api.csproj" />
-  <Project Path="Bastion.Contracts/Bastion.Contracts.csproj" />
+  <Project Path="Bastion.Contracts/Bastion.Shared.csproj" />
   <Project Path="Bastion.Core/Bastion.Core.csproj" />
   <Project Path="Bastion.Tests/Bastion.Tests.csproj" />
   <Project Path="Bastion.Wpf/Bastion.Wpf.csproj" />
